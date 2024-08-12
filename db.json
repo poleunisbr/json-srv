@@ -29,19 +29,19 @@
     {
       "id": 1,
       "practice_name": "Organic Composting",
-      "description": "UUtilizing organic materials to enhance soil health and fertility is a fundamental practice in sustainable agriculture. By incorporating compost, manure, and other natural substances into the soil, we improve its structure, increase its water-holding capacity, and boost its nutrient content. This not only helps to support robust plant growth but also promotes a balanced ecosystem in the soil, fostering beneficial microorganisms and reducing the need for synthetic fertilizers. This method contributes to a healthier environment, reduces erosion, and leads to more resilient crops that are better able to withstand pests and diseases.",
+      "description": "Utilizing organic materials to enhance soil health and fertility is a fundamental practice in sustainable agriculture. By incorporating compost, manure, and other natural substances into the soil, we improve its structure, increase its water-holding capacity, and boost its nutrient content. This not only helps to support robust plant growth but also promotes a balanced ecosystem in the soil, fostering beneficial microorganisms and reducing the need for synthetic fertilizers. This method contributes to a healthier environment, reduces erosion, and leads to more resilient crops that are better able to withstand pests and diseases.",
       "image_url": "assets/practice1.jpg"
     },
     {
       "id": 2,
       "practice_name": "Water Conservation",
-      "description": "Our irrigation systems are designed to minimize water usage and reduce waste.",
+      "description": "Our advanced irrigation systems are meticulously engineered to optimize water efficiency and minimize wastage. By employing cutting-edge technology such as drip irrigation, which delivers water directly to the plant roots, and smart sensors that monitor soil moisture levels, we ensure that each plant receives the precise amount of water it needs for optimal growth. This targeted approach not only conserves water resources but also reduces the risk of overwatering and runoff, which can lead to soil erosion and nutrient loss. Additionally, our systems are designed to be adaptable, allowing for adjustments based on weather conditions and seasonal variations. This proactive strategy helps to maintain soil health, supports sustainable farming practices, and contributes to overall environmental conservation by reducing our water footprint and promoting efficient resource management.",
       "image_url": "assets/practice2.jpg"
     },
     {
       "id": 3,
       "practice_name": "Crop Rotation",
-      "description": "Rotating crops to maintain soil fertility.",
+      "description": "Implementing a strategic crop rotation plan is essential for maintaining and enhancing soil fertility over time. By systematically changing the types of crops grown in a particular field each season, we can effectively prevent the depletion of essential soil nutrients and reduce the risk of soil erosion. This practice involves alternating between nitrogen-fixing legumes, such as peas and beans, and nutrient-demanding crops like corn and tomatoes. By doing so, we help to naturally replenish soil nutrients, reduce the build-up of pests and diseases specific to certain crops, and improve soil structure and organic matter content. Additionally, crop rotation helps to balance the soil pH levels and promote a more diverse and resilient soil ecosystem. This approach not only supports sustainable agricultural practices but also enhances the long-term productivity and health of the soil, ensuring a more robust and balanced growing environment for future crops.",
       "image_url": "assets/practice3.jpg"
     }
   ],
