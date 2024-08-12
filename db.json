@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Apple",
       "description": "Juicy apples from our orchard, great for eating fresh or baking.",
-      "price": 1.49,
+      "price": 1.99,
       "season": "Fall",
       "image_url": "assets/crop3.jpg"
     }
