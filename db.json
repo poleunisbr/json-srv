@@ -1,0 +1,71 @@
+{
+  "produce": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "description": "Fresh red tomatoes.",
+      "price": 3.99,
+      "season": "Summer",
+      "image_url": "assets/crop1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Carrot",
+      "description": "Crunchy orange carrots.",
+      "price": 1.49,
+      "season": "Fall",
+      "image_url": "assets/crop2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "description": "Juicy apples from our orchard, great for eating fresh or baking.",
+      "price": 1.49,
+      "season": "Fall",
+      "image_url": "assets/crop2.jpg"
+    }
+  ],
+  "farming-practices": [
+    {
+      "id": 1,
+      "practice_name": "Organic Composting",
+      "description": "Using organic materials to enrich soil.",
+      "image_url": "assets/practice1.jpg"
+    },
+    {
+      "id": 2,
+      "practice_name": "Water Conservation",
+      "description": "Our irrigation systems are designed to minimize water usage and reduce waste.",
+      "image_url": "assets/practice2.jpg"
+    },
+    {
+      "id": 3,
+      "practice_name": "Crop Rotation",
+      "description": "Rotating crops to maintain soil fertility.",
+      "image_url": "assets/practice2.jpg"
+    }
+  ],
+  "community-events": [
+    {
+      "event_id": 1,
+      "event_name": "Farmers Market",
+      "event_date": "2024-08-20",
+      "description": "Join us for our weekly farmers market featuring local produce and handmade goods.",
+      "image_url": "assets/event1.jpg"
+    },
+    {
+      "event_id": 2,
+      "event_name": "Organic Farming Workshop",
+      "event_date": "2024-09-10",
+      "description": "Learn about organic farming techniques and sustainable practices at our workshop.",
+      "image_url": "assets/event2.jpg"
+    },
+    {
+      "event_id": 3,
+      "event_name": "Harvest Festival",
+      "event_date": "2024-10-15",
+      "description": "Celebrate the harvest season with us, featuring games, food, and farm tours.",
+      "image_url": "assets/event3.jpg"
+    }
+  ]
+}
